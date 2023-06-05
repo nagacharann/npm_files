@@ -1,0 +1,24 @@
+{
+  "name": "npm-files",
+  "version": "1.0.0",
+  "description": "modules for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagacharann/npm_files.git"
+  },
+  "author": "naga charan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagacharann/npm_files/issues"
+  },
+  "homepage": "https://github.com/nagacharann/npm_files#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "nanoid": "^4.0.2",
+    "uuid": "^9.0.0"
+  }
+}
